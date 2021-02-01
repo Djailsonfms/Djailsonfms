@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 Stacks
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Djailsonfms&theme=buefy"/>  
-
+<br/>
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/piyushxbajaj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+<br/>
+  ![](https://komarev.com/ghpvc/?username=Djailsonfms&color=blue&style=flat
